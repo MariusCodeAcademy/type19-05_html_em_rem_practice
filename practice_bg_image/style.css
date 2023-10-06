@@ -53,7 +53,10 @@ header {
 .hero {
   background-color: rgb(158, 158, 247);
   background-image: url('img/hero.jpg');
+  /* background-image: url('img/bee.jpg'); */
+  /* background-repeat: no-repeat; */
   background-size: cover;
+  background-position: center;
 }
 h1 {
   color: #fff;
