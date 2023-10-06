@@ -83,8 +83,13 @@ h1 span {
 .single-project {
   border: 1px solid #000;
   display: inline-block;
-  width: 30%;
-  height: 160px;
+  width: 31.3%;
+  height: 180px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  /* bg properties */
+  background-size: cover;
+  background-position: center;
 }
 .project-title {
   background-color: black;
@@ -96,6 +101,10 @@ h1 span {
 }
 .pr-1 {
   background-image: url('img/house1.jpg');
-  background-size: cover;
-  background-position: center;
+}
+.pr-2 {
+  background-image: url('img/house2.jpg');
+}
+.pr-3 {
+  background-image: url('img/house3.jpg');
 }
