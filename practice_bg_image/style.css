@@ -21,6 +21,8 @@ body {
 /* Headeris */
 
 header {
+  position: sticky;
+  top: 0;
   background-color: #fff;
   padding: 8px 12px;
 }
