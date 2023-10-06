@@ -83,8 +83,19 @@ h1 span {
 .single-project {
   border: 1px solid #000;
   display: inline-block;
-  width: 23%;
+  width: 30%;
+  height: 160px;
+}
+.project-title {
+  background-color: black;
+  color: white;
+  font-weight: normal;
+  margin: 0;
+  padding: 0.6em 1.2em;
+  display: inline-block;
 }
 .pr-1 {
   background-image: url('img/house1.jpg');
+  background-size: cover;
+  background-position: center;
 }
