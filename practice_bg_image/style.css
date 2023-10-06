@@ -69,3 +69,22 @@ h1 {
 h1 span {
   font-weight: bold;
 }
+
+/* Projects ------------------------------------ */
+.projects {
+  padding: 25px 20px;
+}
+.hr {
+  background-color: rgb(175, 175, 175);
+  height: 1px;
+  margin-bottom: 25px;
+}
+
+.single-project {
+  border: 1px solid #000;
+  display: inline-block;
+  width: 23%;
+}
+.pr-1 {
+  background-image: url('img/house1.jpg');
+}
